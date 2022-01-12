@@ -1,2 +1,2 @@
 # jestrocsn
- css framework
+ This is modern css Framework.
